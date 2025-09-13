@@ -2,7 +2,7 @@ import pdfplumber
 import pandas as pd
 import re
 
-pdf_file = r"C:\Users\Davinci\Desktop\test_rechnung.pdf"
+pdf_file = r"C:\Users\........"
 
 rows = []
 
